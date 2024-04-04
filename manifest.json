@@ -3,7 +3,7 @@
     "background_color" : "#1617df",
     "display" : "browser",
     "scope" : "/",
-    "start_url" : "/PWA/",
+    "start_url" : "/BoseApp/",
     "name" : "Bose",
     "short_name" : "BoseAPP",
     "description" : "Bose Web",
