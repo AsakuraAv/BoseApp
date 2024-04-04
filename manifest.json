@@ -1,7 +1,7 @@
 {
     "theme_color" : "#1617df",
     "background_color" : "#1617df",
-    "display" : "fullscreen",
+    "display" : "browser",
     "scope" : "/",
     "start_url" : "/BoseApp/",
     "name" : "Bose",
