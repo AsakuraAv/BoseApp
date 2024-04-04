@@ -1,0 +1,17 @@
+{
+    "theme_color" : "#1617df",
+    "background_color" : "#1617df",
+    "display" : "browser",
+    "scope" : "/",
+    "start_url" : "/PWA/",
+    "name" : "Bose",
+    "short_name" : "BoseAPP",
+    "description" : "Bose Web",
+    "icons" : [
+        {
+            "src" : "image/Logo.png",
+            "sizes" : "512x512",
+            "type" : "image/png"
+        }
+    ]
+    }
