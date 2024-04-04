@@ -9,7 +9,7 @@
     "description" : "Bose Web",
     "icons" : [
         {
-            "src" : "image/Logo.png",
+            "src" : "./image/Logo.png",
             "sizes" : "512x512",
             "type" : "image/png"
         }
